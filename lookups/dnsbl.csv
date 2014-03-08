@@ -1,1 +1,3 @@
-dnsbl,fqdn
+dnsbl_name,dnsbl_fqdn
+"Delink","dnsbl.delink.net"
+"Spamhaus","zen.spamhaus.org"
